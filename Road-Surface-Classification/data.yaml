@@ -1,0 +1,12 @@
+names:
+- bad-road
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: road-surface-classification-mtwom
+  url: https://universe.roboflow.com/btp-project-l7tdo/road-surface-classification-mtwom/dataset/4
+  version: 4
+  workspace: btp-project-l7tdo
+test: test/images
+train: train/images
+val: valid/images
